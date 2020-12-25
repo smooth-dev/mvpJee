@@ -1,6 +1,11 @@
+com\howtodoinjava\demo\model\Adresse.class
 com\howtodoinjava\demo\exception\RecordNotFoundException.class
+com\howtodoinjava\demo\service\PersonneService.class
+com\howtodoinjava\demo\repository\PersonneRepository.class
 com\howtodoinjava\demo\model\EmployeeEntity.class
-com\howtodoinjava\demo\DemoApplication.class
+com\howtodoinjava\demo\model\Personne.class
 com\howtodoinjava\demo\service\EmployeeService.class
+com\howtodoinjava\demo\web\EmployeeController2.class
+com\howtodoinjava\demo\DemoApplication.class
 com\howtodoinjava\demo\repository\EmployeeRepository.class
 com\howtodoinjava\demo\web\EmployeeController.class
