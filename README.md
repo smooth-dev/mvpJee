@@ -14,7 +14,7 @@ La base de donnée est rafraichi a chaque lancement (ddl-auto=create-drop) dans 
 
 
 
-### prochaines modifications: ###                     | 
+ prochaines modifications:                    | 
 -------------                                   | 
 Ajouter les VO                                  | 
 Ajouter swagger pour documenter l'API           | 
